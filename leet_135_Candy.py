@@ -1,6 +1,6 @@
 # Solution
 
-# // Time Complexity :  O(N) -> O(2N)
+# // Time Complexity :  O(2N) -> asymptotically O(N)
 # // Space Complexity : O(N)
 # // Did this code successfully run on Leetcode : Yes
 # // Any problem you faced while coding this : No
